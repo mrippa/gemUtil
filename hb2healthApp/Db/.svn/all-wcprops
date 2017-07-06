@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/gemini-sw/!svn/ver/1790/gem/trunk/support/gemUtil/hb2healthApp/Db
+END
+hb2health.sym
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/gemini-sw/!svn/ver/1088/gem/trunk/support/gemUtil/hb2healthApp/Db/hb2health.sym
+END
+tdct.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/gemini-sw/!svn/ver/1790/gem/trunk/support/gemUtil/hb2healthApp/Db/tdct.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/gemini-sw/!svn/ver/1029/gem/trunk/support/gemUtil/hb2healthApp/Db/Makefile
+END
+hb2health.sch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/gemini-sw/!svn/ver/1781/gem/trunk/support/gemUtil/hb2healthApp/Db/hb2health.sch
+END
+hwrecorddefs.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/gemini-sw/!svn/ver/1781/gem/trunk/support/gemUtil/hb2healthApp/Db/hwrecorddefs.cfg
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gemini-sw/!svn/ver/1773/gem/trunk/support/gemUtil/configure
+END
+RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/gemini-sw/!svn/ver/1773/gem/trunk/support/gemUtil/configure/RELEASE
+END
+RULES.ioc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/gemini-sw/!svn/ver/1026/gem/trunk/support/gemUtil/configure/RULES.ioc
+END
+CONFIG
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/gemini-sw/!svn/ver/1026/gem/trunk/support/gemUtil/configure/CONFIG
+END
+CONFIG_SITE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/gemini-sw/!svn/ver/1026/gem/trunk/support/gemUtil/configure/CONFIG_SITE
+END
+RULES
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/gemini-sw/!svn/ver/1026/gem/trunk/support/gemUtil/configure/RULES
+END
+RULES_DIRS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/gemini-sw/!svn/ver/1026/gem/trunk/support/gemUtil/configure/RULES_DIRS
+END
+RULES_TOP
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/gemini-sw/!svn/ver/1026/gem/trunk/support/gemUtil/configure/RULES_TOP
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/gemini-sw/!svn/ver/1026/gem/trunk/support/gemUtil/configure/Makefile
+END

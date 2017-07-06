@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/gemini-sw/!svn/ver/1771/gem/trunk/support/gemUtil/listAlarmRecordsApp/src
+END
+listAlarmRecords.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/gemini-sw/!svn/ver/1771/gem/trunk/support/gemUtil/listAlarmRecordsApp/src/listAlarmRecords.dbd
+END
+listAlarmRecords.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/gemini-sw/!svn/ver/1771/gem/trunk/support/gemUtil/listAlarmRecordsApp/src/listAlarmRecords.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/gemini-sw/!svn/ver/1771/gem/trunk/support/gemUtil/listAlarmRecordsApp/src/Makefile
+END

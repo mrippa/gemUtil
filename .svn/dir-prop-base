@@ -1,0 +1,15 @@
+K 11
+gem:contact
+V 5
+mikew
+K 10
+svn:ignore
+V 28
+bin
+data
+db
+dbd
+include
+lib
+
+END

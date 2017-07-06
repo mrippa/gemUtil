@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/gemini-sw/!svn/ver/1088/gem/trunk/support/gemUtil/timerApp/Db
+END
+timer.sym
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/gemini-sw/!svn/ver/1088/gem/trunk/support/gemUtil/timerApp/Db/timer.sym
+END
+tdct.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/gemini-sw/!svn/ver/1071/gem/trunk/support/gemUtil/timerApp/Db/tdct.cfg
+END
+timer.sch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/gemini-sw/!svn/ver/1071/gem/trunk/support/gemUtil/timerApp/Db/timer.sch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/gemini-sw/!svn/ver/1071/gem/trunk/support/gemUtil/timerApp/Db/Makefile
+END
